@@ -1,7 +1,7 @@
 name: CI
 
 on:
-  push:
+  push:https://github.com/bigpanda1488/spacewasm/actions
     branches: [main]
   pull_request:
   workflow_dispatch:
